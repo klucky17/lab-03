@@ -141,6 +141,7 @@ fun CityListScreen(
                                 )
                                 newCityName = ""
                                 newProvinceName = ""
+                                selectedCity = null
                             }
                         }
                     }
